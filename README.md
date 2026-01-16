@@ -18,12 +18,10 @@ No dependencies or servers are required. This project runs directly in any moder
 Clone the repository:
 bash
 git clone https://github.com
-Use code with caution.
 
 Navigate to the folder:
 bash
-cd snake-canvas-game
-Use code with caution.
+cd snake-canvas-game.
 
 Run the game:
 Open index.html in your favorite browser.
@@ -38,4 +36,5 @@ Add difficulty levels (increasing speed as the snake grows).
 Replace setInterval with requestAnimationFrame for smoother rendering.
 📄 License
 This project is open-source and available under the MIT License.
+
 Created as a project to explore the HTML5 Canvas API.
