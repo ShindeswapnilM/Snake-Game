@@ -1,0 +1,13 @@
+body {
+	font-family: 'courier New', Courier, monospace;
+	text-align: center;
+	background-color: #1690A7;
+}
+
+li {
+	text-align: left; 
+	color: white ;
+}
+h1 {
+	color: yellow;
+}
